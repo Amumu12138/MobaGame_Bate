@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 851972295
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a6170d67be4b26134bb05f6a29a3684
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/protobuf/wire_format.lua.bytes
+Dependencies: []

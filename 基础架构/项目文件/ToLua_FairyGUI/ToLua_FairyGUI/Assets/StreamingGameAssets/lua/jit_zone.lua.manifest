@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3506042582
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d75f4d85c11c0ba47d0c4be738f7274
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/jit/zone.lua.bytes
+Dependencies: []

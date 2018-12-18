@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1396300433
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cc263c6ffc1ccddeb1d44a275f497a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/socket/mbox.lua.bytes
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1115114144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f788d8038f3da26de16a44a34860b2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/game/framework/templatelibrary/map.lua.bytes
+Dependencies: []

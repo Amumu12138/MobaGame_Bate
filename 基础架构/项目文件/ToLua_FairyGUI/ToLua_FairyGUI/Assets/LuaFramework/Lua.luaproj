@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>E439935D-B2A2-46AE-856D-2AA408428F33</ProjectGuid>
+    <!--$guid1$-->
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>
+    </StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Lua\" />
+    <Folder Include="Lua\3rd\" />
+    <Folder Include="Lua\3rd\json\" />
+    <Folder Include="Lua\3rd\pbc\" />
+    <Folder Include="Lua\Common\" />
+    <Folder Include="Lua\Game\" />
+    <Folder Include="Lua\Game\Blockwords\" />
+    <Folder Include="Lua\Game\Common\" />
+    <Folder Include="Lua\Game\Common\ViewFunction\" />
+    <Folder Include="Lua\Game\Configs\" />
+    <Folder Include="Lua\Game\Configs\ConfigLua\" />
+    <Folder Include="Lua\Game\Configs\ConfigParse\" />
+    <Folder Include="Lua\Game\Configs\Manager\" />
+    <Folder Include="Lua\Game\Framework\" />
+    <Folder Include="Lua\Game\Framework\Event\" />
+    <Folder Include="Lua\Game\Framework\FairyFunction\" />
+    <Folder Include="Lua\Game\Framework\Manager\" />
+    <Folder Include="Lua\Game\Framework\Modules\" />
+    <Folder Include="Lua\Game\Framework\Modules\Controller\" />
+    <Folder Include="Lua\Game\Framework\Modules\View\" />
+    <Folder Include="Lua\Game\Framework\Network\" />
+    <Folder Include="Lua\Game\Framework\AudioFunction\" />
+    <Folder Include="Lua\Game\Framework\Proto\" />
+    <Folder Include="Lua\Game\Framework\Resource\" />
+    <Folder Include="Lua\Game\Framework\System\" />
+    <Folder Include="Lua\Game\Framework\TemplateLibrary\" />
+    <Folder Include="Lua\Game\Framework\TimerHelper\" />
+    <Folder Include="Lua\Game\Modules\" />
+    <Folder Include="Lua\Game\Modules\Manager\" />
+    <Folder Include="Lua\Game\Modules\Login\" />
+    <Folder Include="Lua\Game\Modules\Login\Controller\" />
+    <Folder Include="Lua\Game\Modules\Login\View\" />
+    <Folder Include="Lua\Game\Proto\" />
+    <Folder Include="Lua\Logic\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Lua\3rd\json\json.lua" />
+    <Compile Include="Lua\3rd\pbc\protobuf.lua" />
+    <Compile Include="Lua\Common\define.lua" />
+    <Compile Include="Lua\Common\functions.lua" />
+    <Compile Include="Lua\Game\Blockwords\CommonFileHandleManager.lua" />
+    <Compile Include="Lua\Game\Common\ViewFunction\ViewFunction.lua" />
+    <Compile Include="Lua\Game\Configs\Manager\ConfigManager.lua" />
+    <Compile Include="Lua\Game\Framework\AudioFunction\AudioFunction.lua" />
+    <Compile Include="Lua\Game\Framework\Event\Dispatcher.lua" />
+    <Compile Include="Lua\Game\Framework\Event\EventLib.lua" />
+    <Compile Include="Lua\Game\Framework\Event\EventName.lua" />
+    <Compile Include="Lua\Game\Framework\FairyFunction\FairyFunction.lua" />
+    <Compile Include="Lua\Game\Framework\Manager\FrameworkManager.lua" />
+    <Compile Include="Lua\Game\Framework\Modules\Controller\GameState.lua" />
+    <Compile Include="Lua\Game\Framework\Modules\Controller\Params.lua" />
+    <Compile Include="Lua\Game\Framework\Modules\View\BaseView.lua" />
+    <Compile Include="Lua\Game\Framework\Modules\View\UITransmit.lua" />
+    <Compile Include="Lua\Game\Framework\Network\NetworkManager.lua" />
+    <Compile Include="Lua\Game\Framework\Network\NetworkName.lua" />
+    <Compile Include="Lua\Game\Framework\Network\NetworkServiceId.lua" />
+    <Compile Include="Lua\Game\Framework\Network\NetworkType.lua" />
+    <Compile Include="Lua\Game\Framework\Proto\ProtoRegister.lua" />
+    <Compile Include="Lua\Game\Framework\Resource\ResourceManager.lua" />
+    <Compile Include="Lua\Game\Framework\System\Class.lua" />
+    <Compile Include="Lua\Game\Framework\TemplateLibrary\List.lua" />
+    <Compile Include="Lua\Game\Framework\TemplateLibrary\Map.lua" />
+    <Compile Include="Lua\Game\Framework\TimerHelper\TimerHelper.lua" />
+    <Compile Include="Lua\Game\Modules\Manager\ModulesManager.lua" />
+    <Compile Include="Lua\Logic\Game.lua" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Lua\Game\Proto\Mo.pb" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+</Project>

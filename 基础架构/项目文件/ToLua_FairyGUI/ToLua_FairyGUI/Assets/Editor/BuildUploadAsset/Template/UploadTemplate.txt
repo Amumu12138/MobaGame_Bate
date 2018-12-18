@@ -1,0 +1,2 @@
+#PSCP_PATH -P 36000 -pw #PASSWORD -r #FILE_PATH root@#SERVER_NAME
+pause

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1817978898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67e661db77ecff1114b0a0df62b715de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/UnityEngine/Plane.lua.bytes
+Dependencies: []

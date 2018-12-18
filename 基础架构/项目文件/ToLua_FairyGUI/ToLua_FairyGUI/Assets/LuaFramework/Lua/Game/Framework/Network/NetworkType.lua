@@ -1,0 +1,3 @@
+NetworkType = {
+    Logic = 1;
+}

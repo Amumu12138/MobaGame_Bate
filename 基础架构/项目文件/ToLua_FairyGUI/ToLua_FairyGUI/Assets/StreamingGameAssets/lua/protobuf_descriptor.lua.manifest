@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1382879327
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc8ec87590b1e00dd97c94a3046a260a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/protobuf/descriptor.lua.bytes
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 371554983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1685404ad641d23d1f130bd51e200439
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/game/framework/event/eventname.lua.bytes
+Dependencies: []

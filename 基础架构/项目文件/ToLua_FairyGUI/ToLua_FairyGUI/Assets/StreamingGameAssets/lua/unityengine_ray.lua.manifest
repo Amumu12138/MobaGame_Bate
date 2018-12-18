@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2163982673
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8f149e8cd5e7be4e427703d0a5353a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/UnityEngine/Ray.lua.bytes
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1713658917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19f05b54d62d82645e27af1a5a028740
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/game/framework/modules/controller/params.lua.bytes
+Dependencies: []

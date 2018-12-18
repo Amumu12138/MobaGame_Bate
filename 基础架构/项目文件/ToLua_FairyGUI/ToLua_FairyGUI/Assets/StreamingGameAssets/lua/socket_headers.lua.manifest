@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1749032864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b091d88f52a8d6902eb09d8867f4f398
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/socket/headers.lua.bytes
+Dependencies: []

@@ -1,0 +1,2 @@
+C:/Users/jiantao.chen/Desktop/ToLua_FairyGUI/Build/PSCP.EXE -P 36000 -pw nrNzzTq$xdj5no0z -r C:/Users/jiantao.chen/Desktop/ToLua_FairyGUI/Assets/10002_3689_2018627.upk root@103.249.193.169:/data/www/ftxgame/FTX_X3/Server_1000
+pause

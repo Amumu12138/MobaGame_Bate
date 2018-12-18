@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1151651736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e1a3ade5a92bacc333f4ad16d09b46d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/UnityEngine/Bounds.lua.bytes
+Dependencies: []

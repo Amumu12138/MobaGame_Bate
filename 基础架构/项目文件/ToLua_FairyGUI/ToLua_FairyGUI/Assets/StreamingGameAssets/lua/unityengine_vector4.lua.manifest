@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3288606722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68b6fdb3bb5b95b4cc728c68e22d42ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/UnityEngine/Vector4.lua.bytes
+Dependencies: []

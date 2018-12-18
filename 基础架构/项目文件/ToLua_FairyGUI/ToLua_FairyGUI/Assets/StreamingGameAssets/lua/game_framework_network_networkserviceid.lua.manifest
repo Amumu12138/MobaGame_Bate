@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2204178986
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40d69f691e3d5dc95aa1f6c0d45512e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/streamingluaassets/game/framework/network/networkserviceid.lua.bytes
+Dependencies: []
